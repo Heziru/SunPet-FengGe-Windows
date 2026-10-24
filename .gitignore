@@ -1,0 +1,13 @@
+*.exe
+*.exe.config
+*.zip
+*.jsonl
+self-test.json
+chain-test.json
+display-update.json
+audio-smoke-test.json
+.env
+.env.*
+work/
+outputs/
+.vs/
